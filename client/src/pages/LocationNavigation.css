@@ -1,0 +1,29 @@
+.location-navigation-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  
+  
+  .navigation-frame {
+    display: flex;
+    justify-content: flex-start; /* Align items to the left */
+    width: 100%;
+  }
+  
+  .navigate-button {
+    background-color: rgb(225, 16, 16);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .navigate-button:hover {
+    background-color: #0056b3;
+  }
+  
